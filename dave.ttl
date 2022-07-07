@@ -28,7 +28,7 @@
 
 @prefix dave:   <https://www.nicos-rd.com/fua/dataverse#> .
 
-dave:dave
+dave:DAVE
     a                dave:DataVerse ;
     a                fua:Self ;
     a                gbx:GAIAboX ; ## REM: owl:Thing, foaf:Agent
