@@ -30,11 +30,11 @@
 
 dave:DAVE
     a                dave:DataVerse ;
-    a                fua:Self ;
-    a                gbx:GAIAboX ; ## REM: owl:Thing, foaf:Agent
+    ## TBC: a                fua:Self ;
+
     dct:publisher    nrd: ;
     dct:created      "2022-07-05T15:42:42.42Z"^^xsd:dateTimeStamp ;
     rdfs:isDefinedBy nrd: ;
 .
 
-## EOF dave.ttl
+## EOF gbx.dave.ttl

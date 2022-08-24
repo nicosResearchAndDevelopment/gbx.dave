@@ -6,7 +6,7 @@ Understanding GAIAboX DataVerse.
 
 - [Introduction](#introduction)
 
-*Table of Content "GAIAboX Understanding"*.
+*Table of Content "GAIAboX DataVerse Understanding"*.
 
 ---
 

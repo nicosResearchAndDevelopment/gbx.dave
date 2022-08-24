@@ -45,19 +45,19 @@ main branch after validation, fulfilling underlying rules, structure or schema.
 
 ## Consultation
 
-The Candidate (Person, wich aime to become an Operator) need initial instructions.
+The Candidate (Person, wich aims to become an Operator) need initial instructions.
 
 ---
 
 ## Enter
 
-1. To become an DAVE Operator you have contact TODO:#me.
-2. Requesting person gets an Account.
+1. To become a DAVE Operator you have to contact TODO:#me.
+2. Requesting person gets an DAVE-Account.
 3. Requesting person logs in: TODO:#[https://gbx.nicos-rd.com](https://gbx.nicos-rd.com).
 
 > After successful login given person acts as an Operator.
 
-4. The Operator has to answer some questions related to "DAVE-Onboarding".
+4. The Operator has to answer some questions related to DAVE-Onboarding.
 
 Doing so, given answers will be evaluated and given result initiates and supports
 the [Preparation Prozess](#preparation).
@@ -99,7 +99,7 @@ The Operator need instructions.
 
 ### Buildup End
 
-Given Repository (currently status _Pre-phase_) alters it status to _Can-phase_ (**Can**didate).
+Given Repository (current status _Pre-phase_) alters it status to _Can-phase_ (**Can**didate).
 
 ---
 
@@ -109,7 +109,7 @@ Given **Candidate** (Repository with status _Can_) will be transferred to given 
 
 ## Transfer End
 
-Given Repository (currently status _Can-phase_) alters it status to _Prod-phase_ (**Prod**duction).
+Given Repository (current status _Can-phase_) alters it status to _Prod-phase_ (**Prod**duction).
 
 Given topic (here: EcoSystem, Domain, DataVerse) is member of DAVE and online.
 
